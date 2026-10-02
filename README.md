@@ -62,9 +62,9 @@ Saya, Irsyad Afif Musyaffa dengan NIM 2508023, mengerjakan Tugas Praktikum 3 dal
    Hewan-hewan dimasukkan ke dalam area kandang masing-masing memanfaatkan fungsi `addAnimal()`.
 4. **Pengelompokan ke Vector Sistem (Array of Objects)**
    Seluruh pointer `Animal*` dan pointer `Enclosure*` dihimpun ke dalam `vector<Animal*>` dan `vector<Enclosure*>` untuk mempermudah iterasi data.
-5. **Menampilkan State Sebelum / Kondisi Kosong (`MainBefore.cpp`)**
+5. **Menampilkan State Sebelum / Kondisi Kosong**
    Memastikan penanganan kondisi *empty state* saat belum ada data terdaftar di dalam sistem.
-6. **Menampilkan Informasi Terstruktur (`MainAfter.cpp`)**
+6. **Menampilkan Informasi Terstruktur Setelah Add Data Secara Statis**
    - Menampilkan seluruh daftar hewan menggunakan eksekusi polimorfik `a->displayInfo()`.
    - Menampilkan rincian daftar kandang beserta daftar seluruh penghuninya.
 7. **Pembersihan Memori**
