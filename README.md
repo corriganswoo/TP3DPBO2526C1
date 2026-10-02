@@ -19,7 +19,7 @@ Saya, Irsyad Afif Musyaffa dengan NIM 2508023, mengerjakan Tugas Praktikum 3 dal
 
 # ⚒️ DIAGRAM KELAS 
 
-<img width="600" alt="UML Class Diagram Zoo Management System" src="LINK_GAMBAR_UML_KAMU" />
+<img width="600" alt="UML Class Diagram Zoo Management System" src="DiagramTP3.drawio.png" />
 
 <br>
 
@@ -75,7 +75,13 @@ Saya, Irsyad Afif Musyaffa dengan NIM 2508023, mengerjakan Tugas Praktikum 3 dal
 # 📸 DOKUMENTASI EKSEKUSI PROGRAM
 
 ## Tampilan Sebelum Data Terisi (Empty State)
-<img width="600" alt="Output Sebelum Data Terisi" src="LINK_GAMBAR_BEFORE" />
+<img width="600" alt="Output Sebelum Data Terisi" src="cpp/Dokumentasi/sebelumadd.png" />
 
 ## Tampilan Eksekusi Utama Program C++
-<img width="600" alt="Output Program C++ Berjalan" src="LINK_GAMBAR_AFTER" />
+<img width="600" alt="Output Program C++ Berjalan" src="cpp/Dokumentasi/setelahadd.png" />
+
+## Tampilan Eksekusi Utama Program Python
+<img width="600" alt="Output Program C++ Berjalan" src="python/Dokumentasi/setelahadd.png" />
+
+## Tampilan Eksekusi Utama Program Java
+<img width="600" alt="Output Program C++ Berjalan" src="java/Dokumentasi/setelahadd.png" />
