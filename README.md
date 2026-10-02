@@ -19,7 +19,7 @@ Saya, Irsyad Afif Musyaffa dengan NIM 2508023, mengerjakan Tugas Praktikum 3 dal
 
 # ⚒️ DIAGRAM KELAS 
 
-<img width="600" alt="UML Class Diagram Zoo Management System" src="DiagramTP3.drawio.png" />
+<img width="400" alt="UML Class Diagram Zoo Management System" src="DiagramTP3.drawio.png" />
 
 <br>
 
