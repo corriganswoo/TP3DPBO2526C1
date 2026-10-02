@@ -52,7 +52,7 @@ Saya, Irsyad Afif Musyaffa dengan NIM 2508023, mengerjakan Tugas Praktikum 3 dal
 
 ---
 
-# ⛔️ ALUR EKSEKUSI PROGRAM (`Main.cpp`)
+# ⛔️ ALUR EKSEKUSI PROGRAM
 
 1. **Inisialisasi Area Kandang (`Enclosure`)**
    Program membuat objek kandang seperti `Area Mammalia Safari` (`enc1`) dan `Area Aviary Burung` (`enc2`).
