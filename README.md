@@ -1,10 +1,10 @@
-# 🦁 TUGAS PRAKTIKUM 3 DPBO - ZOO MANAGEMENT SYSTEM
+# 🦁 TUGAS PRAKTIKUM 3 DPBO 
 
 Buat program berbasis OOP dengan minimal 3 kelas menggunakan bahasa pemrograman C++ dan Python dengan tema bebas. implementasi utama konsep:
 - inheritance
 - composition
 - array of object (bisa pake vector)
-- 
+
 Bonus nilai jika menambahkan bahasa Java dan mengimplementasikan minimal satu dari materi:
 - Hierarchical inheritance
 - Multiple inheritance
@@ -12,12 +12,12 @@ Bonus nilai jika menambahkan bahasa Java dan mengimplementasikan minimal satu da
 
 ---
 
-# 🤝🏻 JANJI INTEGRITAS AKADEMIK
+# 🤝🏻 JANJI
 Saya, Irsyad Afif Musyaffa dengan NIM 2508023, mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya. Maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ---
 
-# ⚒️ DIAGRAM KELAS (UML CLASS DIAGRAM)
+# ⚒️ DIAGRAM KELAS 
 
 <img width="600" alt="UML Class Diagram Zoo Management System" src="LINK_GAMBAR_UML_KAMU" />
 
